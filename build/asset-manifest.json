@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a79ead8c.css",
+    "main.js": "/static/js/main.51c4fe30.js",
+    "static/js/787.214502cb.chunk.js": "/static/js/787.214502cb.chunk.js",
+    "static/media/Man City.png": "/static/media/Man City.79619a1b8aaa57e796ac.png",
+    "static/media/UCL_Background.webp": "/static/media/UCL_Background.103e2cf022dc562b1c4e.webp",
+    "static/media/Bayern.png": "/static/media/Bayern.32b8dba5f4279cc84ab5.png",
+    "static/media/UCL_Ball.png": "/static/media/UCL_Ball.58a8aba6c9e793b1fc2c.png",
+    "static/media/Real Sociedad.png": "/static/media/Real Sociedad.3d3a1423a52e06ef2973.png",
+    "static/media/Porto.png": "/static/media/Porto.90800dd6d5809fc501bd.png",
+    "static/media/Real Madrid.png": "/static/media/Real Madrid.a37ffe2f6b0851f48dc7.png",
+    "static/media/Napoli.png": "/static/media/Napoli.84c1cc05f8f9b6c999c9.png",
+    "static/media/Copenhagen.png": "/static/media/Copenhagen.44ca1cf9d6db04c18ab8.png",
+    "static/media/Dortmund.png": "/static/media/Dortmund.9b2acbb7465fe90d6314.png",
+    "static/media/Barcelona.png": "/static/media/Barcelona.225a022681258fdf75cb.png",
+    "static/media/Inter Milan.png": "/static/media/Inter Milan.466498c33187906a3d0c.png",
+    "static/media/Arsenal.png": "/static/media/Arsenal.6208697f6997a61e4f53.png",
+    "static/media/RB Leipzig.png": "/static/media/RB Leipzig.64ad5f4a9342483a0c29.png",
+    "static/media/PSG.png": "/static/media/PSG.5dfa8031977a1a2e0d5f.png",
+    "static/media/PSV.png": "/static/media/PSV.3a2fe1840d33fb260257.png",
+    "static/media/Lazio.png": "/static/media/Lazio.226c2629ba9df4fa75c7.png",
+    "static/media/Atletico Madrid.png": "/static/media/Atletico Madrid.1fb7b2e43b0806015af2.png",
+    "index.html": "/index.html",
+    "main.a79ead8c.css.map": "/static/css/main.a79ead8c.css.map",
+    "main.51c4fe30.js.map": "/static/js/main.51c4fe30.js.map",
+    "787.214502cb.chunk.js.map": "/static/js/787.214502cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a79ead8c.css",
+    "static/js/main.51c4fe30.js"
+  ]
+}
