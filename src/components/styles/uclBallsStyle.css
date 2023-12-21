@@ -1,0 +1,16 @@
+.ball-container {
+    display: grid;
+    grid-template-columns: repeat(4,150px);  /* 3 columns */
+    grid-template-rows: repeat(2,150px); /* 3 rows  */
+    grid-gap:2vh 1vw;
+}
+
+.ball:hover {
+    transform: scale(1.05);
+    transition: transform 0.5s;
+}
+
+.ball:active {
+    transform: scale(0.95);
+    transition: transform 0.5s;
+}

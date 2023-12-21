@@ -1,0 +1,119 @@
+[
+    [
+      {
+        "name": "Bayern",
+        "country": "Germany",
+        "bertName": "Bayern München",
+        "group": 0,
+        "opponents":["PSV", "Napoli", "Inter Milan", "Lazio", "PSG", "Porto"]
+      },
+      {
+        "name": "Arsenal",
+        "country": "England",
+        "bertName": "Arsenal",
+        "group": 1,
+        "opponents":["Copenhagen", "Napoli", "Inter Milan", "Lazio", "PSG", "Porto", "RB Leipzig"]
+      },
+      {
+        "name": "Real Madrid",
+        "country": "Spain",
+        "bertName": "Real Madrid",
+        "group": 2,
+        "opponents":["Copenhagen", "PSV", "Inter Milan", "Lazio", "PSG", "Porto", "RB Leipzig"]
+      },
+      {
+        "name": "Real Sociedad",
+        "country": "Spain",
+        "bertName": "Real Sociedad",
+        "group": 3,
+        "opponents":["Copenhagen", "PSV", "Napoli", "Lazio", "PSG", "Porto", "RB Leipzig"]
+      },
+      {
+        "name": "Atletico Madrid", 
+        "country": "Spain",
+        "bertName": "Atletico Madrid",
+        "group": 4,
+        "opponents":["Copenhagen", "PSV", "Napoli", "Inter Milan", "PSG", "Porto", "RB Leipzig"]
+      },
+      {
+        "name": "Dortmund",
+        "country": "Germany",
+        "bertName": "Borussia Dortmund",
+        "group": 5,
+        "opponents":["Copenhagen", "PSV", "Napoli", "Inter Milan", "Lazio", "Porto"]
+      },
+      {
+        "name": "Man City",
+        "country": "England",
+        "bertName": "Manchester City",
+        "group": 6,
+        "opponents":["Copenhagen", "PSV", "Napoli", "Inter Milan", "Lazio", "PSG", "Porto"]
+      },
+      {
+        "name": "Barcelona",
+        "country": "Spain",
+        "bertName": "Fc Barcelona",
+        "group": 7,
+        "opponents":["Copenhagen", "PSV", "Napoli", "Inter Milan", "Lazio", "PSG", "RB Leipzig"]
+      }
+    ],
+    [
+      {
+        "name": "Copenhagen",
+        "country": "Denmark",
+        "bertName": "FC København",
+        "group": 0,
+        "opponents": ["Arsenal", "Real Madrid", "Real Sociedad", "Atletico Madrid", "Dortmund", "Man City", "Barcelona"]
+      },
+      {
+        "name": "PSV",
+        "country": "Netherlands",
+        "bertName": "PSV Eindhoven",
+        "group": 1,
+        "opponents": ["Bayern", "Real Madrid", "Real Sociedad", "Atletico Madrid", "Dortmund", "Man City", "Barcelona"]
+      },
+      {
+        "name": "Napoli",
+        "country": "Italy",
+        "bertName": "Napoli",
+        "group": 2,
+        "opponents": ["Bayern", "Arsenal", "Real Sociedad", "Atletico Madrid", "Dortmund", "Man City", "Barcelona"]
+      },
+      {
+        "name": "Inter Milan",
+        "country": "Italy",
+        "bertName": "Internazionale Milano",
+        "group": 3,
+        "opponents": ["Bayern", "Arsenal", "Real Madrid", "Atletico Madrid", "Dortmund", "Man City", "Barcelona"]
+      },
+      {
+        "name": "Lazio",
+        "country": "Italy",
+        "bertName": "Lazio",
+        "group": 4,
+        "opponents": ["Bayern", "Arsenal", "Real Madrid", "Real Sociedad", "Dortmund", "Man City", "Barcelona"]
+      },
+      {
+        "name": "PSG",
+        "country": "France",
+        "bertName": "Paris Saint-Germain",
+        "group": 5,
+        "opponents": ["Bayern", "Arsenal", "Real Madrid", "Real Sociedad", "Atletico Madrid", "Man City", "Barcelona"]
+      },
+      {
+        "name": "RB Leipzig",
+        "country": "Germany",
+        "bertName": "RB Leipzig",
+        "group": 6,
+        "opponents": ["Arsenal", "Real Madrid", "Real Sociedad", "Atletico Madrid", "Barcelona"]
+      },
+      {
+        "name": "Porto",
+        "country": "Portugal",
+        "bertName": "FC Porto",
+        "group": 7,
+        "opponents": ["Bayern", "Arsenal", "Real Madrid", "Real Sociedad", "Atletico Madrid", "Dortmund", "Man City"]
+      }
+    ]
+  ]
+  
